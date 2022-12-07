@@ -1,9 +1,11 @@
+#importing random
 import random
 print("Hello!") 
 myName=input("Enter Your name: ")
 print("\nWelcome, " + myName)
 choice="yes"
 score=0
+#This program will run until the user select anything else except yes this program will be terminate
 while(True):
  if(choice=="no"):
  break
