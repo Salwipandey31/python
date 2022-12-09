@@ -33,3 +33,4 @@ while(True):
   print("\nBetter Luck next time") 
   print("Score is %d"%score)
   choice=input("Do you want to play again? yes-no :")
+  #dont do indentation and syntax error
